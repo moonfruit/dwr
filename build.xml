@@ -17,7 +17,7 @@
 	<property name="version" value="${major}.${minor}.${revision}-${title}" />
 
 	<!-- define Maven coordinates -->
-	<property name="groupId" value="org.directwebremoting" />
+	<property name="groupId" value="com.github.moonfruit.dwr" />
 	<property name="artifactId" value="dwr" />
 
 	<!-- define artifacts' name, which follows the convention of Maven -->
